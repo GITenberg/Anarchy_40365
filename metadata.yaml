@@ -1,0 +1,37 @@
+_repo: Anarchy_40365
+_version: 0.1.0
+alternative_title: Anarchia. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malatesta, Errico
+    alias: Malatesta, Enrico
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '40571'
+    url: http://www.gutenberg.org/2009/agents/40571
+description: "In his pamphlet Anarchy (Italian: L'anarchia), published in 1891, Errico\
+  \ Malatesta seeks to explain the fundamental tenets of, and provide a persuasive\
+  \ argument for, his version of anarchism. According to Worldcat, it has been published\
+  \ in fifty-five editions between 1892 and 2004 in eight languages and is held by\
+  \ 139 libraries worldwide.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2012-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40365'
+  wikidata: Q4751676
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anarchism'
+- !lcc 'HX'
+title: Anarchy
+url: http://www.gutenberg.org/ebooks/40365
+wikipedia:
+- https://en.wikisource.org/wiki/Anarchy_(Malatesta)
+- https://en.wikipedia.org/wiki/Anarchy_(book)
+- https://es.wikipedia.org/wiki/La_anarqu%C3%ADa
