@@ -17,6 +17,8 @@ description: "In his pamphlet Anarchy (Italian: L'anarchia), published in 1891, 
   \ argument for, his version of anarchism. According to Worldcat, it has been published\
   \ in fifty-five editions between 1892 and 2004 in eight languages and is held by\
   \ 139 libraries worldwide.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40365#Anarchy
 gutenberg_issued: '2012-07-28'
 gutenberg_type: Text
 identifiers:
